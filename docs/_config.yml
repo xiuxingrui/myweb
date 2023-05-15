@@ -1,4 +1,7 @@
+theme: jekyll-theme-minimal
+title: Rui's homepage
+description: Test homepage!
 sass:
   sass_dir: _sass
   
-theme: minima
+
